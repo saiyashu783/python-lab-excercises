@@ -1,6 +1,6 @@
 # Write a program to demonstrate different number data types in Python.
 
-a = 10
+a = 20
 b = 10.5
 c = 3+2j
 print("datatype of a is ", type(a))
